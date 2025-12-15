@@ -1,4 +1,5 @@
 Trigger_Office_Or_M365_App_Check_for_Update
 
 
-Script Link : -
+
+Script Link : - https://github.com/ChanderManiPandey2022/Trigger_Office_Or_M365_App_Check_for_Update/releases/download/V1.0/Trigger_Office_Or_M365_App_Check_for_Update.ps1
